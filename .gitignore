@@ -1,0 +1,8 @@
+node_modules
+
+
+# misc
+.env
+
+
+# means it is not push in github.
